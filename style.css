@@ -46,7 +46,7 @@ form{
 table{
     display: flex;
     flex-direction: column;
-    width: 800px;
+    width: 680px;
     height: 400px;
     margin: 20px;
     padding: 8px 20px;
